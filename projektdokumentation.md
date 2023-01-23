@@ -20,10 +20,10 @@
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): ...
-* Tier 2 (Webserver):
-* Tier 3 (Application Server):
-* Tier 4 (Dataserver):
+* Tier 1 (Presentation): Das Design
+* Tier 2 (Webserver): 
+* Tier 3 (Application Server): 
+* Tier 4 (Dataserver): Speichern der Daten, Die Leaderboard
 
 # 2 Technologie
 
