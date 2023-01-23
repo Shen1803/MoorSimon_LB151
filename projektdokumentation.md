@@ -27,7 +27,7 @@
 
 # 2 Technologie
 
-✍️ Beschreiben Sie für dieselben Tiers, welche Programmiersprache bzw. Technologie Sie verwenden möchten.
+Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der Datenbank seite nehme ich MySQL.
 
 # 3 Datenbank
 
