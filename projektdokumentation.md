@@ -53,8 +53,10 @@ Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| A.1  | Benutzer angemeldet             |Rad drehen          |Preis wird angezeigt                   |
+| B.1  |Preis gewonnen               | Gewinn einlösen          |Gewinn wird eingelöst                  |
+| C.1  |Als Administrator angemeldet              | Wort hinzufuegen         | Wort wird Hinzugefuegt                |
+| C.1  |Als Administrator angemeldet             |Phrase hinzufuegen          |Phrase wird hinzugefuegt                |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
