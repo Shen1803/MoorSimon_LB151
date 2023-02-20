@@ -20,14 +20,14 @@
 
 ✍️ Beschreiben Sie, auf welchem Tier Sie die dynamischen Elemente der Anwendung unterbringen möchten:
 
-* Tier 1 (Presentation): Das Design
-* Tier 2 (Webserver): 
-* Tier 3 (Application Server): 
-* Tier 4 (Dataserver): Speichern der Daten, Die Leaderboard
+* Tier 1 (Presentation): Glückspiel anzeigen lassen 
+* Tier 2 (Webserver): Eingabe prüfen 
+* Tier 3 (Application Server): Funktionalität des Glücksrades und die Auswertung
+* Tier 4 (Dataserver): Speichern der Daten, Die Leaderboard, änderungen und löschungen.
 
 # 2 Technologie
 
-Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der Datenbank seite nehme ich MySQL.
+Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der Datenbank seite nehme ich MySQL. Die ganze Application wird schlussendlich über den Webserver Next.js laufen. dazu möchte ich noch Tailwind dazunehmen für CSS/HTML Elemente.
 
 # 3 Datenbank
 
@@ -41,8 +41,11 @@ Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| A    | Muss            | Funktional    | Als ein Benutzer möchte ich das Glücksrad drehen können, damit man das Spiel kann spielen |
+| B    | Muss            | Funktional    | Als Benutzer möchte ich mein Gewinn einlösen.                                    |
+| C    | Muss            | Funktional    | Als Administrator möchte ich Phrasen und Wörter bearbeiten.                                   |
+| D    | Muss            | Qualität      | Als Benutzer möchte ich eine übersichtliches GUI haben, damit sich der User zurechtfinden kann.|
+| E    | Muss            | Rand          | Als Benutzer möchte ich mich auf dem Leaderboard sehen.                            |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
