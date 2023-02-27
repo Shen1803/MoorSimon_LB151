@@ -32,6 +32,7 @@ Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der
 # 3 Datenbank
 
 ✍️ Wie steuern Sie Ihre Datenbank an? Wie ist das Interface aufgebaut? 
+Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre das mit der Admin seite welche Neue Wörter der datenbank hinzufügen kann. auf der Anderenseite tue ich die Datenbank auch mit der Game seite ansprechen wenn ich das Leaderboard updaten muss.
 
 # 4.1 User Stories
 
