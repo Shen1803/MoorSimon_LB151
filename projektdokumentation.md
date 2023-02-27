@@ -83,7 +83,7 @@ Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der
 
 # 8 Testprotokoll
 
-✍️[ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.](https://youtu.be/ywLppdAyYcs)
+✍️[ Video für die Datenbank](https://youtu.be/ywLppdAyYcs)
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
