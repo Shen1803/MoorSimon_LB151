@@ -53,6 +53,8 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 |I| Muss | Qualität | Wenn der User einen Falschenbuchstaben eingibt wird im ein "Herz" abgezogen|
 |J| Muss | Qualität | Wenn der User einen Falschenbuchstaben eingibt wird im die gewettete Summe abgezogen|
 |K| Muss | Qualität | Wenn der User kein Geld mehr hat sollte er gameover sein |
+|L| Muss | Qualität | Der Benutzer kann sich anmelden|
+|M| Muss | Qualität | Wenn sich der Benutzer angemeldet ist wird er weitergeleitet|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
