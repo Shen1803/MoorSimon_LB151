@@ -49,12 +49,12 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 | E    | Muss            | Rand          | Als Benutzer möchte ich mich auf dem Leaderboard sehen.                            |
 | F | Muss|Funktional| Wenn der User verliert wird das money resettet.|
 |G| Muss | Funktional| Wenn der User verliert kann man wieder spielen. |
-|H| Muss | Qualität | Wenn der User einen Richtigen buchstaben errät wird dieser angezeigt.|
-|I| Muss | Qualität | Wenn der User einen Falschenbuchstaben eingibt wird im ein "Herz" abgezogen|
-|J| Muss | Qualität | Wenn der User einen Falschenbuchstaben eingibt wird im die gewettete Summe abgezogen|
-|K| Muss | Qualität | Wenn der User kein Geld mehr hat sollte er gameover sein |
+|H| Muss | Funktional | Wenn der User einen Richtigen buchstaben errät wird dieser angezeigt.|
+|I| Muss | Funktional | Wenn der User einen Falschenbuchstaben eingibt wird im ein "Herz" abgezogen|
+|J| Muss | Funktional | Wenn der User einen Falschenbuchstaben eingibt wird im die gewettete Summe abgezogen|
+|K| Muss | Funktional | Wenn der User kein Geld mehr hat sollte er gameover sein |
 |L| Muss | Qualität | Der Benutzer kann sich anmelden|
-|M| Muss | Qualität | Wenn sich der Benutzer angemeldet ist wird er weitergeleitet|
+|M| Muss | Funktional | Wenn sich der Benutzer angemeldet ist wird er weitergeleitet|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
@@ -73,6 +73,7 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 |I.1| Benutzer angemeldet |den buchstaben f eingeben | es sollte eine zahl von 3 auf 2 springen.|
 |J.1| Benutzer angemeldet |den buchstaben f eingeben und einen weteinsatz von 20 eingeben |das Geld von 100 auf 80 herunter gehen | 
 |K.1| Benutzer angemeldet | den buchstaben f eingeben und der weteinsatzt auf mehr einstellen als sie geld haben| Es sollte eine alert messeg kommen das sie game over sind.|
+|M.1| das Programm ist gestartet | bei User Simon und bei Passwort moor| Man wird auf die Game seite weitergeleitet |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
