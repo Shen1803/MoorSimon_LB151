@@ -89,7 +89,19 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
-| ...        |       |              |
+| A        |   25-26.02.22       |    nicht gemacht          |
+| B        |   25-26.02.22       |      gemacht        |
+| C        |  25-26.02.22        |            nicht gemacht  |
+| D        |   25-26.02.22       |            gemacht  |
+| E        |   25-26.02.22       |             nicht gemacht |
+| D        |   25-26.02.22       |     gemacht         |
+| G        |   25-26.02.22       |   gemacht           |
+| H        |   25-26.02.22       |        gemacht      |
+| I        |   25-26.02.22       |     gemacht         |
+| J        |    25-26.02.22      |     gemacht         |
+| K        |  25-26.02.22        |      nicht gemacht        |
+| L        |  25-26.02.22        |         gemacht     |
+| M        |   25-26.02.22       |         gemacht     |
 
 # 7 Projektdokumentation
 
