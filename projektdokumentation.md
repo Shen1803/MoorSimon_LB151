@@ -14,7 +14,7 @@
 
 # 0 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+✍️ Mein Projekt soll eine vereinfachte vorm von GuessMyWord sein welches man im Deutschenfernseh sehen kann.
 
 # 1 Analyse
 
