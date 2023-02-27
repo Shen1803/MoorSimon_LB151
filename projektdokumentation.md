@@ -110,16 +110,16 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 | A    |      nein     |        -                                   |
 | B    |         ja   |          "game.js"                                 |
 |  C   |         nein  |                                           |
-|   D   |         ja  |                                           |
+|   D   |         ja  |        "game.js"                                         |
 |    E  |          nein |                                           |
-|     F |         ja  |                                           |
-|      G|       ja    |                                           |
-|      H|        ja   |                                           |
-|      I|         ja  |                                           |
-|      J|         ja  |                                           |
-|      K|         ja  |                                           |
-|      L|         ja  |                                           |
-|      M|         ja  |                                           |
+|     F |         ja  |       "game.js"                                          |
+|      G|       ja    |        "game.js"                                         |
+|      H|        ja   |      "game.js"                                           |
+|      I|         ja  |       "game.js"                                          |
+|      J|         ja  |      "game.js"                                           |
+|      K|         ja  |      "game.js"                                           |
+|      L|         ja  |      "Login.js"                                     |
+|      M|         ja  |            "Login.js"                               |
 
 
 
