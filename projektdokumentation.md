@@ -143,8 +143,12 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 | K.1  |  27.02.2023     |  geht nicht    | Simon Moor        |
 | M.1  |  27.02.2023     |  geht nicht     | Simon Moor        |
 
-# 8.5 Fazit
-
+# 8.1 Fazit
+Wie ist für mich das Projekt gelaufen?
+Ich muss sagen ich hatte recht schwierigkeiten damit die Datenbank mit dem Projekt zu verbinden. Da wir im Unterricht nur eine Methode angeschaut haben wie es möglich ist mit JSF und MySQL. Durch das bin ich dann auch auf meine erste Idee gekommen MySQL zu benutzen da ich mir dachte das es sicher kein grossen unterschied gäbe zwischen den verbindungsmethoden. Jedoch habe ich mich dann geirt. Ich hatte keine ahnung und bin auch nicht richtig drausgekommen was die verschiedenen Dokus von mir wolten. Nach dem ich zuviel zeit verschwendet habe, bin ich wieder zurück zu eineren anderen Methode geweselt welche ich schon kannte. 
+Aber auch sonst gab es sachen welche mir leichter gingen als andere. Viele sachen in verbindung mit der Datenbank waren relativ schwierig und auch anstrengent umzusetzen. Andere Aufgaben welche wiederum keine Datenbank brauchten gingen relatif einfach.
+Nun um Produkt?
+Ich würde das Produkt als eine Alpha sehen das Grundspiel funktioniert jedoch noch viele administrativen sachen nicht möglich sind.
 
 # 9 `README.md`
 
