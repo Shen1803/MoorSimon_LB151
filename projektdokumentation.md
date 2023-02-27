@@ -27,7 +27,7 @@
 
 # 2 Technologie
 
-Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der Datenbank seite nehme ich MySQL. Die ganze Application wird schlussendlich über den Webserver Next.js laufen. dazu möchte ich noch Tailwind dazunehmen für CSS/HTML Elemente.
+Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der Datenbank seite nehme ich Firebase. Jedoch wollte ich eigentlich MySQL benutzen da ich gerne mal alles "intern" speichern wollte. Die ganze Application wird schlussendlich über den Webserver Next.js laufen. dazu möchte ich noch Tailwind dazunehmen für CSS/HTML Elemente.
 
 # 3 Datenbank
 
