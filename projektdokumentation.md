@@ -4,7 +4,7 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
+|   12.02.22    | 0.0.1   | Projekt erstellt |
 |  13.02.22     | 0.0.2   |  Mockupdesign erstellt und organisatorische sachen erledigt                                                           |
 |       | 0.0.3   |                                                              |
 |       | 0.0.4   |                                                              |
