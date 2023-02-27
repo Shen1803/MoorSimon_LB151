@@ -49,6 +49,7 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 | E    | Muss            | Rand          | Als Benutzer möchte ich mich auf dem Leaderboard sehen.                            |
 | F | Muss|Funktional| Wenn der User verliert wird das money resettet.|
 |G| Muss | Funktional| Wenn der User verliert kann man wieder spielen. |
+|H| Muss | Qualität | Wenn der User einen Richtigen buchstaben errät wird dieser angezeigt.|
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
