@@ -67,6 +67,7 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 |E.1| Benutzer angemeldet und schon runden gespielt haben | 3 mahl einen Falschen buchstaben eingeben | man sollte auf dem Leaderboard erscheinen |
 |F.1| Benutzer angemeldet | drei mal einen falschen buchstaben eingeben und dazu noch einen wetsatzt haben | das Geld sollte sich wieder auf 100 resetten |
 |G.1| Benutzer angemeldet und 3 mal einen falschen Buchstaben eingegeben haben |nichts| es sollte ein alert erscheinen welche sagt das die verloren haben und dazu sollten sie die möglichkeit haben wieder zu spielen |
+|H.1| Benutzer angemeldet |den buchstaben R eingeben | ein r sollte oben bei den "lücken" erscheinen.| 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
