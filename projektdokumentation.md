@@ -107,7 +107,7 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| 1    | ja / nein |                                           |
+| A    |           |                                           |
 | ...  |           |                                           |
 
 # 8 Testprotokoll
