@@ -83,11 +83,11 @@ Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der
 
 # 8 Testprotokoll
 
-✍️ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.
+✍️[ Fügen Sie hier den Link zu dem Video ein, welches den Testdurchlauf dokumentiert.](https://youtu.be/ywLppdAyYcs)
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+| 1.1  |  27.02.2023     | Datenbank vorhanden        | Simon Moor        |
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
