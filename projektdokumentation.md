@@ -75,7 +75,6 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 |K.1| Benutzer angemeldet | den buchstaben f eingeben und der weteinsatzt auf mehr einstellen als sie geld haben| Es sollte eine alert messeg kommen das sie game over sind.|
 |M.1| das Programm ist gestartet | bei User Simon und bei Passwort moor| Man wird auf die Game seite weitergeleitet |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 # 5 Prototyp
 
@@ -85,7 +84,7 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 
 # 6 Implementation
 
-✍️ Halten Sie fest, wann Sie welche User Story bearbeitet haben
+
 
 | User Story | Datum | Beschreibung |
 | ---------- | ----- | ------------ |
@@ -152,7 +151,6 @@ Ich würde das Produkt als ein Alpha sehen das Grundspiel funktioniert jedoch no
 
 
 # 9 `README.md`
-
 
 
 # 10 Allgemeines
