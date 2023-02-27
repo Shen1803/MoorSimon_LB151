@@ -50,6 +50,9 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 | F | Muss|Funktional| Wenn der User verliert wird das money resettet.|
 |G| Muss | Funktional| Wenn der User verliert kann man wieder spielen. |
 |H| Muss | Qualität | Wenn der User einen Richtigen buchstaben errät wird dieser angezeigt.|
+|I| Muss | Qualität | Wenn der User einen Falschenbuchstaben eingibt wird im ein "Herz" abgezogen|
+|J| Muss | Qualität | Wenn der User einen Falschenbuchstaben eingibt wird im die gewettete Summe abgezogen|
+|K| Muss | Qualität | Wenn der User kein Geld mehr hat sollte er gameover sein |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc. oder Zahl), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). 
 
@@ -57,7 +60,7 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 
 | TC-№ | Vorbereitung | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| A.1  | Benutzer angemeldet             |Rad drehen          |Preis wird angezeigt                   |
+| A.1  | Benutzer angemeldet             |Rad drehen          |Weteinsatz wird angezeigt                   |
 | B.1  |Preis gewonnen               | Gewinn einlösen          |Gewinn wird eingelöst                  |
 | C.1  |Als Administrator angemeldet              | Wort hinzufuegen         | Wort wird Hinzugefuegt                |
 | C.1  |Als Administrator angemeldet             |Phrase hinzufuegen          |Phrase wird hinzugefuegt                |
