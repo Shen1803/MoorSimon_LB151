@@ -109,9 +109,9 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 | ---- | --------- | ----------------------------------------- |
 | A    |      nein     |        -                                   |
 | B    |         ja   |          "game.js"                                 |
-|  C   |         nein  |                                           |
+|  C   |         nein  |          -                                 |
 |   D   |         ja  |        "game.js"                                         |
-|    E  |          nein |                                           |
+|    E  |          nein |          -                                 |
 |     F |         ja  |       "game.js"                                          |
 |      G|       ja    |        "game.js"                                         |
 |      H|        ja   |      "game.js"                                           |
@@ -130,10 +130,21 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |  27.02.2023     | Datenbank vorhanden        | Simon Moor        |
-| ...  |       |          |        |
+| A.1  |  27.02.2023     |  geht nicht     | Simon Moor        |
+| B.1  |  27.02.2023     |  geht     | Simon Moor        |
+| C.1  |  27.02.2023     |  geht nicht    | Simon Moor        |
+| C.1  |  27.02.2023     |  geht nicht     | Simon Moor        |
+| E.1  |  27.02.2023     |  geht    | Simon Moor        |
+| F.1  |  27.02.2023     |  geht      | Simon Moor        |
+| G.1  |  27.02.2023     |  geht     | Simon Moor        |
+| H.1  |  27.02.2023     |  geht      | Simon Moor        |
+| I.1  |  27.02.2023     |  geht     | Simon Moor        |
+| J.1  |  27.02.2023     |  geht     | Simon Moor        |
+| K.1  |  27.02.2023     |  geht nicht    | Simon Moor        |
+| M.1  |  27.02.2023     |  geht nicht     | Simon Moor        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+# 8.5 Fazit
+
 
 # 9 `README.md`
 
