@@ -107,8 +107,21 @@ Also die Datenbank steuere ich mit zwei Interfaces an. Auf der Einenseite wäre 
 
 | US-№ | Erledigt? | Entsprechende Code-Dateien oder Erklärung |
 | ---- | --------- | ----------------------------------------- |
-| A    |           |                                           |
-| ...  |           |                                           |
+| A    |      nein     |        -                                   |
+| B    |         ja   |          "game.js"                                 |
+|  C   |         nein  |                                           |
+|   D   |         ja  |                                           |
+|    E  |          nein |                                           |
+|     F |         ja  |                                           |
+|      G|       ja    |                                           |
+|      H|        ja   |                                           |
+|      I|         ja  |                                           |
+|      J|         ja  |                                           |
+|      K|         ja  |                                           |
+|      L|         ja  |                                           |
+|      M|         ja  |                                           |
+
+
 
 # 8 Testprotokoll
 
