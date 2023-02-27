@@ -4,13 +4,13 @@
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   12.02.22    | 0.0.1   | Projekt erstellt |
-|  13.02.22     | 0.0.2   |  Mockupdesign erstellt und organisatorische sachen erledigt                                                           |
-|       | 0.0.3   |                                                              |
-|       | 0.0.4   |                                                              |
-|       | 0.0.5   |                                                              |
-|       | 0.0.6   |                                                              |
-|       | 1.0.0   |                                                              |
+|   12.02.22    | 0.0.1   | Projekt erstellt. |
+|  13.02.22     | 0.0.2   |  Mockupdesign erstellt und organisatorische sachen erledigt.                                                         |
+| 20.02.22      | 0.0.3   |    GuessMyWord Game implementiert.                                                  |
+|  21.02.22     | 0.0.4   |     Versucht Login funktion hinzuzufühen                                                         |
+|   23.02.22    | 0.0.5   |       wenn man verliert kann man nochmal spielen.                                                       |
+|   25-26.02.22    | 0.0.6   |     Versucht das Leaderboard zu implementieren und eine administrator fester zu erstellen.              |
+|  27.02.22     | 1.0.0   |      Keine Änderungen am Projekt, Projektdokumentation vervollständigen.                                                        |
 
 # 0 Ihr Projekt
 
