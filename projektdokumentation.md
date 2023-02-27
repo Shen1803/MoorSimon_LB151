@@ -62,7 +62,7 @@ Ich möchte für diese Webseite einmal React und JavaScript benutzen und auf der
 
 # 5 Prototyp
 
-✍️ Erstellen Sie Prototypen für das GUI (Admin-Interface und Quiz-Seite).
+![image](https://user-images.githubusercontent.com/110914364/221497405-4e45c100-29ff-41f4-b133-9f5f92b138d3.png)
 
 # 6 Implementation
 
